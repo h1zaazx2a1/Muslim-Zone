@@ -5,11 +5,11 @@ Muslim Zone app takes your privacy seriously. To better protect your privacy we 
 
 ## Collection of Routine Information
 
-This app does not collect any information about users
+This application collects geographical location data when allowed, and this data is not shared
 
 ## Cookies
 
-This application does not use cookies
+This application does not use cookies,but advertising partners and other third parties may use cookies
 
 ## Advertisement and Other Third Parties
 
